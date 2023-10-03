@@ -51,7 +51,6 @@ Sping bean 으로 등록하려는 클래스에 붙일 수 있는 annotation. Spr
 
 
 
-
 ***
 ### 3. 프로그램 로그
 ![result1](./result1.png)
